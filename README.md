@@ -1,68 +1,57 @@
-# [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
+# The Good Fridge Project
+## DH 150 UX Design, Wendy Li
 
-[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+## Introduction: 
+My project would help users set personalized ethical goals regarding their own food consumption. This app serves the function of fulfilling the human need for self actualization via food consumption rather than their physiological needs. 
 
-## Preview
+## Design Statement:
+The food consumer culture in America has evolved towards greater awareness of ethical issues such as environmental issues/sustainability, human rights issues (fair trade), and animal rights issues. Current solutions that help humans set ethical food consumption goals tend to focus on one type of goal. For instance, there are apps that help people become vegetarians, or diminish carbon foodprint, but there are no apps that enables its users to set a comprehensive set of goals that guides them to become a better person in alignment with their value systems. Existing apps also oftentimes dictate one standard of ethical eating, and doesn't allow its users to customize their consumption of food based on their personal ethical priorities. This app would allow users to customize what's important to them. Furthermore, the app will diminish the enormous information barriers for users so that they wouldn't have to conduct comprehensive research in order to find out how to achieve their ethical goals. This app will help users set personal goals, and provide customizable plans to help them achieve these goals.
 
-[![New Age Preview](https://startbootstrap.com/assets/img/screenshots/themes/new-age.png)](https://blackrockdigital.github.io/startbootstrap-new-age/)
+## Competitor Analysis: 
+Competitor apps that similarly tracks and changes users behaviors include: The Fitness Pal, and My Plate. 
+https://github.com/wendyli328/DH150/blob/master/SampleHeuristics.md
+https://github.com/wendyli328/DH150/blob/master/SampleUsabilityTesting.md
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-new-age/)**
+## User Research:
+From this contexual analysis, I learned that it's very difficult for users to have the initial motivation to go onto an app that will change their habits and lifestyle. Also, convenience is extremely important to users in habit tracking apps. In addition, financial constraints is a major obstacle preventing users from making ethical choices.
 
-## Status
+Next time, I would like to think of ways to ask questions that doesn't sound like I'm blaming them or judging them for their food choices. I feel like asking questions about whether they care about the environment can make my interviewee feel like I'm judging them if they don't, and they feel awkward answering that question. In addition, I'd like to observe more how they make plans to eat with friends, and how a group of friends decide where to go out to eat together.
+https://github.com/wendyli328/DH150/blob/master/Contexual-Inquiry/2.md
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-new-age/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-new-age.svg)](https://www.npmjs.com/package/startbootstrap-new-age)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age?type=dev)
+## UX Storytelling:
+From creating scenarios and personas, I was able to hone down on the key features that I want to include in my wireframes. 
 
-## Download and Installation
+![scenario 1](https://github.com/wendyli328/DH150/blob/master/Scenario%201-page-001.jpg)
+![scenario 2](https://github.com/wendyli328/DH150/blob/master/Scenario%202-page-001.jpg)
+![scenario 3](https://github.com/wendyli328/DH150/blob/master/Scenario%203-page-001.jpg) 
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/new-age/)
-* Install via npm: `npm i startbootstrap-new-age`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-new-age.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-new-age)
+![persona 1](https://github.com/wendyli328/DH150/blob/master/Persona%201-page-001.jpg)
+![persona 2](https://github.com/wendyli328/DH150/blob/master/Persona%202-page-001.jpg)
+![persona 3](https://github.com/wendyli328/DH150/blob/master/Persona%203.jpg)
 
-## Usage
 
-### Basic Usage
+## Wireframe and graphic design element variation:
+https://github.com/wendyli328/DH150/tree/master/assignment07
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+## Low-fidelity Prototype 
+I did a few versions of low-fidelity prototypes. It was difficult to decide what key features can make the minimap viable product, and how to build my information architect in the way that's easiest to follow. During this process, i frequently researched the layout of other apps to draw inspiration. 
 
-### Advanced Usage
+Wireframe (Sketch):
+![Image of drawing](https://github.com/wendyli328/DH150/blob/master/Screen%20Shot%202020-02-16%20at%203.15.57%20PM.jpg)
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+Wireframe (Figma):
+![Image of Wireframes](https://github.com/wendyli328/DH150/blob/master/Screen%20Shot%202020-02-16%20at%203.11.35%20PM.jpg)
 
-#### Gulp Tasks
+https://github.com/wendyli328/DH150/blob/master/LoFiPrototype.md
 
-- `gulp` the default task that builds everything
-- `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
+## High-fidelity Prototype
+I made two versions of my high-fidelity prototype. I was unhappy with my first one but didn't know how to fix it. On my second try, I started using Adobe Illustrator as an additional tool to Figma, and also carefully studied the designs of my favorite app "Headspace." The animation on my high fidelity prototype was inspired by them.
+Version 1: https://www.figma.com/file/H0bPNnnqnwFhrvZVXGQ689/First-Draft?node-id=0%3A1
+Version 2: https://www.figma.com/proto/5bBrzsvZBtRhcJQkxBVB46/Third-Draft?node-id=28%3A6&scaling=scale-down
 
-You must have npm installed globally in order to use this build environment.
+## Pitch video [update the video after recording your presentation]
+https://www.youtube.com/watch?v=x9HzxSUGfUo
+https://www.youtube.com/watch?v=LKJKVY8N0es
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-new-age/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/new-age/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-new-age/blob/gh-pages/LICENSE) license.
+## Conclusion:
+I learned that UI UX design is in many ways a scientific pursuit. It involves research, repeated testings, evaluation, etc. It's not simply seeing that something looks good or feeling like something works and implementing it. I learned from this class that UI UX is systematic and disciplined. Through this class, I gained a better understanding of where and how to start my own independent projects. It gave me the tools to create something that I can otherwise just imagine. 
